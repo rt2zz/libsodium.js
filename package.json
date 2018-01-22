@@ -1,9 +1,11 @@
 {
   "name": "libsodium-js-universal",
   "version": "0.7.3",
-  "description":
-    "The Sodium cryptographic library compiled to pure JavaScript (wrappers)",
-  "files": ["dist/browsers/sodium.js", "package.json"],
+  "description": "The Sodium cryptographic library compiled to pure JavaScript (wrappers)",
+  "files": [
+    "dist/browsers/sodium.js",
+    "package.json"
+  ],
   "main": "dist/browsers/sodium.js",
   "dependencies": {
     "libsodium": "0.7.3"
@@ -23,11 +25,16 @@
     "ecc"
   ],
   "author": "Ahmad Ben Mrad (@BatikhSouri)",
-  "contributors": ["Frank Denis (@jedisct1)", "Ryan Lester (@buu700)"],
+  "contributors": [
+    "Frank Denis (@jedisct1)",
+    "Ryan Lester (@buu700)"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jedisct1/libsodium.js/issues"
   },
   "homepage": "https://github.com/jedisct1/libsodium.js",
-  "browser": { "fs": false }
+  "browser": {
+    "fs": false
+  }
 }
