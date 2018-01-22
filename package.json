@@ -1,6 +1,6 @@
 {
   "name": "libsodium-js-universal",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "The Sodium cryptographic library compiled to pure JavaScript (wrappers)",
   "files": [
     "dist/browsers/sodium.js",
