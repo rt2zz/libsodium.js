@@ -1,5 +1,5 @@
 {
-  "name": "libsodium-wrappers",
+  "name": "libsodium-js-universal",
   "version": "0.7.3",
   "description":
     "The Sodium cryptographic library compiled to pure JavaScript (wrappers)",
